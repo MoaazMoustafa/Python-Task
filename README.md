@@ -1,7 +1,7 @@
-### Python-Task
+# Python-Task
 A small Python software to take searching arguments from the user and retrive the desired movie based on these arguments
 ## First task: search for a movie
-# How to run the program
+### How to run the program
 ```
 python3 .\movie_search.py movies.csv 
 ```
@@ -10,7 +10,7 @@ python3 .\movie_search.py movies.csv
 - If the movie does exit in the movies.csv file it will be printed as a dictionary. If not another message will be printed which says that this movie doesn't exit
 
 ## Second task: Converting csv file into json file
-# How to run the program
+### How to run the program
 ```
 python3 .\csv_to_json.py
 ```
