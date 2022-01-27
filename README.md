@@ -1,6 +1,6 @@
 # Python-Task
 A small Python software to take searching arguments from the user and retrive the desired movie based on these arguments
-## First task: search for a movie
+## First task: Search for a movie
 ### How to run the program
 ```
 python3 .\movie_search.py movies.csv 
