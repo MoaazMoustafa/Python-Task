@@ -26,9 +26,8 @@ def make_json(csvFilePath, jsonFilePath):
 # Driver Code
 
 
-# I could prompt the user for the name of the csv file or
-# let him enter it as a command line argument as the another problem
-csvFilePath = 'movies.csv'
+csvFilePath = input(
+    'Please Enter the file path that you want to convert into a json file 😉😉: ')
 jsonFilePath = 'movies.json'
 
 # Call the make_json function
